@@ -51,7 +51,19 @@ Generated with `tree` command.
 # Screenshots
 
 **home**
-![home]()
+![home](https://github.com/rajdivyesh/web3-crypto-explorer-react-app/blob/master/screenshots/home.png)
+
+**about**
+![about](https://github.com/rajdivyesh/web3-crypto-explorer-react-app/blob/master/screenshots/about.png)
+
+**coins listing**
+![coins listing](https://github.com/rajdivyesh/web3-crypto-explorer-react-app/blob/master/screenshots/coin_listing.png)
+
+**coins listing**
+![trending coins](https://github.com/rajdivyesh/web3-crypto-explorer-react-app/blob/master/screenshots/trending_coins.png)
+
+**coins listing**
+![exchange rate listing](https://github.com/rajdivyesh/web3-crypto-explorer-react-app/blob/master/screenshots/exchange_rates_listing.png)
 
 # Project Overview
 
@@ -113,9 +125,6 @@ I aim to use the following packages: must have packages
 - react-router-dom (routing for react)
 - chartjs (charting library)
 - axios (graceful api calls)
-  
-### optional packages
-
 - redux (may need redux for state management if number of components grows)
 - ant motion (animations for ant design ui)
 
